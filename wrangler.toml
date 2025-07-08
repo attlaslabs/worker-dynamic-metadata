@@ -5,8 +5,7 @@ compatibility_date = "2024-04-19"
 compatibility_flags = ["nodejs_compat"]
 
 routes = [
-  { pattern = "https://attlas.so/c/*", zone_id = "6a495883909eca11afbf6b59ca3d9dc4" },
-  { pattern = "https://www.attlas.so/c/*", zone_id = "6a495883909eca11afbf6b59ca3d9dc4" }
+  { pattern = "https://attlas.so/c/*", zone_id = "6a495883909eca11afbf6b59ca3d9dc4" }
 ]
 
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
